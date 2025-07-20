@@ -1,2 +1,2 @@
 # E-CommerceWebsite
-shoplane-by-lassie.netlify.app/
+https://shoplane-by-lassie.netlify.app/
